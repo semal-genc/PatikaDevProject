@@ -5,8 +5,8 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.  
 
 ## Cevap
-* Her düğümün sol alt ağacı, düğümden küçük değerler içerir.
-* Her düğümün sağ alt ağacı, düğümden büyük değerler içerir.  
+**Her düğümün sol alt ağacı, düğümden küçük değerler içerir.**
+**Her düğümün sağ alt ağacı, düğümden büyük değerler içerir.**  
 
 - Root’u belirle
   - İlk eleman 7
@@ -41,6 +41,7 @@
   - 2 < 5 → sol
   - 2 > 1 → sağ
   - 2 < 3 → 3’ün soluna gelir
+```
                                  7
                                /   \
                               5     8
@@ -50,7 +51,4 @@
                         0     3
                              / \
                             2   4  
-
-
-
-
+```
