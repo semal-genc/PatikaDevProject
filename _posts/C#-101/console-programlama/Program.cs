@@ -1,0 +1,14 @@
+﻿Console.WriteLine(DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss"));
+
+string name = "Semal";
+Console.WriteLine("Hello, " + name);
+
+int number = 5;
+int square = number * number;
+Console.WriteLine("Square: " + square);
+Console.WriteLine("Number: " + number);
+
+string numberString = "10";
+int parsedNumber = int.Parse(numberString);
+Console.WriteLine("Parsed Number: " + parsedNumber);
+Console.WriteLine("sum: " + (parsedNumber + number));
