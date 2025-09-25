@@ -1,4 +1,6 @@
+---
 title: "PatikaDevProject"
 description: "GitHub Pages ile PatikaDevProject"
 baseurl: ""
-url: "https://semal-genc.github.io/PatikaDevProject"
+url: "https://github.com/semal-genc/PatikaDevProject"
+---
