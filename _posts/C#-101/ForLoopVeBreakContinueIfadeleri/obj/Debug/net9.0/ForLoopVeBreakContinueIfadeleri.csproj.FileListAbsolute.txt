@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\bin\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.exe
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\bin\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.deps.json
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\bin\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\bin\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.dll
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\bin\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.pdb
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.dll
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\refint\ForLoopVeBreakContinueIfadeleri.dll
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.pdb
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ForLoopVeBreakContinueIfadeleri.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\ForLoopVeBreakContinueIfadeleri\obj\Debug\net9.0\ref\ForLoopVeBreakContinueIfadeleri.dll
