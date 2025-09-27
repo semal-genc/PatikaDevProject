@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.exe
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.deps.json
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.dll
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\bin\Debug\net9.0\tip-donusumleri.pdb
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.dll
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\refint\tip-donusumleri.dll
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.pdb
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\tip-donusumleri.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\tip-donusumleri\obj\Debug\net9.0\ref\tip-donusumleri.dll
