@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\Switch-Case\bin\Debug\net9.0\Switch-Case.exe
+C:\Users\semal\Desktop\Pratikler\Switch-Case\bin\Debug\net9.0\Switch-Case.deps.json
+C:\Users\semal\Desktop\Pratikler\Switch-Case\bin\Debug\net9.0\Switch-Case.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\Switch-Case\bin\Debug\net9.0\Switch-Case.dll
+C:\Users\semal\Desktop\Pratikler\Switch-Case\bin\Debug\net9.0\Switch-Case.pdb
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.dll
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\refint\Switch-Case.dll
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.pdb
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\Switch-Case.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\Switch-Case\obj\Debug\net9.0\ref\Switch-Case.dll
