@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\WhileForeach\bin\Debug\net9.0\WhileForeach.exe
+C:\Users\semal\Desktop\Pratikler\WhileForeach\bin\Debug\net9.0\WhileForeach.deps.json
+C:\Users\semal\Desktop\Pratikler\WhileForeach\bin\Debug\net9.0\WhileForeach.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\WhileForeach\bin\Debug\net9.0\WhileForeach.dll
+C:\Users\semal\Desktop\Pratikler\WhileForeach\bin\Debug\net9.0\WhileForeach.pdb
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.dll
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\refint\WhileForeach.dll
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.pdb
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\WhileForeach.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\WhileForeach\obj\Debug\net9.0\ref\WhileForeach.dll
