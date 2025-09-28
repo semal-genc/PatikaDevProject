@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\bin\Debug\net9.0\ArraySınıfıMethodları.exe
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\bin\Debug\net9.0\ArraySınıfıMethodları.deps.json
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\bin\Debug\net9.0\ArraySınıfıMethodları.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\bin\Debug\net9.0\ArraySınıfıMethodları.dll
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\bin\Debug\net9.0\ArraySınıfıMethodları.pdb
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.dll
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\refint\ArraySınıfıMethodları.dll
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.pdb
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ArraySınıfıMethodları.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\ArraySınıfıMethodları\obj\Debug\net9.0\ref\ArraySınıfıMethodları.dll
