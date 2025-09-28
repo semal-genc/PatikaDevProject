@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\bin\Debug\net9.0\MetotTanimlama.exe
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\bin\Debug\net9.0\MetotTanimlama.deps.json
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\bin\Debug\net9.0\MetotTanimlama.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\bin\Debug\net9.0\MetotTanimlama.dll
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\bin\Debug\net9.0\MetotTanimlama.pdb
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.dll
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\refint\MetotTanimlama.dll
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.pdb
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\MetotTanimlama.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\MetotTanimlama\obj\Debug\net9.0\ref\MetotTanimlama.dll
