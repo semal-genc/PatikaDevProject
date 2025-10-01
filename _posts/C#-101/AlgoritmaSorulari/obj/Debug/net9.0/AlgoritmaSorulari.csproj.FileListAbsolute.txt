@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\bin\Debug\net9.0\AlgoritmaSorulari.exe
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\bin\Debug\net9.0\AlgoritmaSorulari.deps.json
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\bin\Debug\net9.0\AlgoritmaSorulari.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\bin\Debug\net9.0\AlgoritmaSorulari.dll
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\bin\Debug\net9.0\AlgoritmaSorulari.pdb
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.dll
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\refint\AlgoritmaSorulari.dll
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.pdb
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\AlgoritmaSorulari.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\AlgoritmaSorulari\obj\Debug\net9.0\ref\AlgoritmaSorulari.dll
