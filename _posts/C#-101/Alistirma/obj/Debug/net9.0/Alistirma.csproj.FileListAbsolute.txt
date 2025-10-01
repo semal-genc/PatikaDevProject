@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\Alistirma\bin\Debug\net9.0\Alistirma.exe
+C:\Users\semal\Desktop\Pratikler\Alistirma\bin\Debug\net9.0\Alistirma.deps.json
+C:\Users\semal\Desktop\Pratikler\Alistirma\bin\Debug\net9.0\Alistirma.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\Alistirma\bin\Debug\net9.0\Alistirma.dll
+C:\Users\semal\Desktop\Pratikler\Alistirma\bin\Debug\net9.0\Alistirma.pdb
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.dll
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\refint\Alistirma.dll
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.pdb
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\Alistirma.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\Alistirma\obj\Debug\net9.0\ref\Alistirma.dll
