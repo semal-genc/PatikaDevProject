@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\bin\Debug\net9.0\GenericKoleksiyonlarList.exe
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\bin\Debug\net9.0\GenericKoleksiyonlarList.deps.json
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\bin\Debug\net9.0\GenericKoleksiyonlarList.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\bin\Debug\net9.0\GenericKoleksiyonlarList.dll
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\bin\Debug\net9.0\GenericKoleksiyonlarList.pdb
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.dll
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\refint\GenericKoleksiyonlarList.dll
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.pdb
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\GenericKoleksiyonlarList.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\GenericKoleksiyonlarList\obj\Debug\net9.0\ref\GenericKoleksiyonlarList.dll
