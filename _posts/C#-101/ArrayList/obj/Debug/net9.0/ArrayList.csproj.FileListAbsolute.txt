@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\ArrayList\bin\Debug\net9.0\ArrayList.exe
+C:\Users\semal\Desktop\Pratikler\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+C:\Users\semal\Desktop\Pratikler\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\ArrayList\bin\Debug\net9.0\ArrayList.dll
+C:\Users\semal\Desktop\Pratikler\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.dll
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll
