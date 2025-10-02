@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\bin\Debug\net9.0\DatetimeMathSiniflari.exe
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\bin\Debug\net9.0\DatetimeMathSiniflari.deps.json
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\bin\Debug\net9.0\DatetimeMathSiniflari.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\bin\Debug\net9.0\DatetimeMathSiniflari.dll
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\bin\Debug\net9.0\DatetimeMathSiniflari.pdb
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.dll
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\refint\DatetimeMathSiniflari.dll
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.pdb
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\DatetimeMathSiniflari.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\DatetimeMathSiniflari\obj\Debug\net9.0\ref\DatetimeMathSiniflari.dll
