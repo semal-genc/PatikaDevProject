@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\bin\Debug\net9.0\InstanceFieldProperty.exe
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\bin\Debug\net9.0\InstanceFieldProperty.deps.json
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\bin\Debug\net9.0\InstanceFieldProperty.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\bin\Debug\net9.0\InstanceFieldProperty.dll
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\bin\Debug\net9.0\InstanceFieldProperty.pdb
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.dll
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\refint\InstanceFieldProperty.dll
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.pdb
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\InstanceFieldProperty.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\InstanceFieldProperty\obj\Debug\net9.0\ref\InstanceFieldProperty.dll
