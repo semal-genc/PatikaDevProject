@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\bin\Debug\net9.0\EncapsulationVeProperty.exe
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\bin\Debug\net9.0\EncapsulationVeProperty.deps.json
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\bin\Debug\net9.0\EncapsulationVeProperty.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\bin\Debug\net9.0\EncapsulationVeProperty.dll
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\bin\Debug\net9.0\EncapsulationVeProperty.pdb
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.dll
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\refint\EncapsulationVeProperty.dll
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.pdb
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\EncapsulationVeProperty.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\EncapsulationVeProperty\obj\Debug\net9.0\ref\EncapsulationVeProperty.dll
