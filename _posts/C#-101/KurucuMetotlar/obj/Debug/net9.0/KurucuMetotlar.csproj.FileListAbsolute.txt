@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\bin\Debug\net9.0\KurucuMetotlar.exe
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\bin\Debug\net9.0\KurucuMetotlar.deps.json
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\bin\Debug\net9.0\KurucuMetotlar.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\bin\Debug\net9.0\KurucuMetotlar.dll
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\bin\Debug\net9.0\KurucuMetotlar.pdb
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.dll
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\refint\KurucuMetotlar.dll
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.pdb
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\KurucuMetotlar.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\KurucuMetotlar\obj\Debug\net9.0\ref\KurucuMetotlar.dll
