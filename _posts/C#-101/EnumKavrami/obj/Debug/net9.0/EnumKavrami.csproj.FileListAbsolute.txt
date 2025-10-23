@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\bin\Debug\net9.0\EnumKavrami.exe
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\bin\Debug\net9.0\EnumKavrami.deps.json
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\bin\Debug\net9.0\EnumKavrami.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\bin\Debug\net9.0\EnumKavrami.dll
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\bin\Debug\net9.0\EnumKavrami.pdb
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.dll
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\refint\EnumKavrami.dll
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.pdb
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\EnumKavrami.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\EnumKavrami\obj\Debug\net9.0\ref\EnumKavrami.dll
