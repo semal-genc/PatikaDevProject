@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\bin\Debug\net9.0\StaticSinifVeUyeler.exe
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\bin\Debug\net9.0\StaticSinifVeUyeler.deps.json
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\bin\Debug\net9.0\StaticSinifVeUyeler.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\bin\Debug\net9.0\StaticSinifVeUyeler.dll
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\bin\Debug\net9.0\StaticSinifVeUyeler.pdb
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.dll
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\refint\StaticSinifVeUyeler.dll
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.pdb
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\StaticSinifVeUyeler.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\StaticSinifVeUyeler\obj\Debug\net9.0\ref\StaticSinifVeUyeler.dll
