@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\bin\Debug\net9.0\HayvanatBahcesi.exe
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\bin\Debug\net9.0\HayvanatBahcesi.deps.json
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\bin\Debug\net9.0\HayvanatBahcesi.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\bin\Debug\net9.0\HayvanatBahcesi.dll
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\bin\Debug\net9.0\HayvanatBahcesi.pdb
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.dll
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\refint\HayvanatBahcesi.dll
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.pdb
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\HayvanatBahcesi.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\HayvanatBahcesi\obj\Debug\net9.0\ref\HayvanatBahcesi.dll
