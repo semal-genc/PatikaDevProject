@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\bin\Debug\net9.0\UcgenCizme.exe
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\bin\Debug\net9.0\UcgenCizme.deps.json
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\bin\Debug\net9.0\UcgenCizme.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\bin\Debug\net9.0\UcgenCizme.dll
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\bin\Debug\net9.0\UcgenCizme.pdb
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.dll
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\refint\UcgenCizme.dll
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.pdb
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\UcgenCizme.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\UcgenCizme\obj\Debug\net9.0\ref\UcgenCizme.dll
