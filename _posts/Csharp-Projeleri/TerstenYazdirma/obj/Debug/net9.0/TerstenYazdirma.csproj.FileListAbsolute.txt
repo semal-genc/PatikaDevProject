@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\bin\Debug\net9.0\TerstenYazdirma.exe
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\bin\Debug\net9.0\TerstenYazdirma.deps.json
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\bin\Debug\net9.0\TerstenYazdirma.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\bin\Debug\net9.0\TerstenYazdirma.dll
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\bin\Debug\net9.0\TerstenYazdirma.pdb
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.dll
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\refint\TerstenYazdirma.dll
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.pdb
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\TerstenYazdirma.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\TerstenYazdirma\obj\Debug\net9.0\ref\TerstenYazdirma.dll
