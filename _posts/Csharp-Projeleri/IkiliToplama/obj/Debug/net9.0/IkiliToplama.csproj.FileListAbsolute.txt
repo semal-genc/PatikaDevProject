@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\bin\Debug\net9.0\IkiliToplama.exe
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\bin\Debug\net9.0\IkiliToplama.deps.json
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\bin\Debug\net9.0\IkiliToplama.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\bin\Debug\net9.0\IkiliToplama.dll
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\bin\Debug\net9.0\IkiliToplama.pdb
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.dll
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\refint\IkiliToplama.dll
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.pdb
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\IkiliToplama.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\IkiliToplama\obj\Debug\net9.0\ref\IkiliToplama.dll
