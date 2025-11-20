@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\bin\Debug\net9.0\MutlakKareAlma.exe
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\bin\Debug\net9.0\MutlakKareAlma.deps.json
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\bin\Debug\net9.0\MutlakKareAlma.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\bin\Debug\net9.0\MutlakKareAlma.dll
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\bin\Debug\net9.0\MutlakKareAlma.pdb
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.dll
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\refint\MutlakKareAlma.dll
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.pdb
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\MutlakKareAlma.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\MutlakKareAlma\obj\Debug\net9.0\ref\MutlakKareAlma.dll
