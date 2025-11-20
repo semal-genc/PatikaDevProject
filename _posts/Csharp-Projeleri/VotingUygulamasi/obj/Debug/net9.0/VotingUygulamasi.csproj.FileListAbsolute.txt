@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\bin\Debug\net9.0\VotingUygulamasi.exe
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\bin\Debug\net9.0\VotingUygulamasi.deps.json
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\bin\Debug\net9.0\VotingUygulamasi.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\bin\Debug\net9.0\VotingUygulamasi.dll
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\bin\Debug\net9.0\VotingUygulamasi.pdb
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.dll
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\refint\VotingUygulamasi.dll
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.pdb
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\VotingUygulamasi.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\VotingUygulamasi\obj\Debug\net9.0\ref\VotingUygulamasi.dll
