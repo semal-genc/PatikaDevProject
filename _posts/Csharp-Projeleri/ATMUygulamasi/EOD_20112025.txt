@@ -1,0 +1,4 @@
+Gün Sonu Transaction Logları:
+20.11.2025 17:29:53 - semal - Para Yatırma - 120000 TL
+20.11.2025 17:30:13 - semal - Para Çekme - 450 TL
+20.11.2025 17:30:34 - semal - Ödeme Yapma - 12000 TL

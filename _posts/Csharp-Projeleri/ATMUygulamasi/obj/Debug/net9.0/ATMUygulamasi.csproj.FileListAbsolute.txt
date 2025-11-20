@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\bin\Debug\net9.0\ATMUygulamasi.exe
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\bin\Debug\net9.0\ATMUygulamasi.deps.json
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\bin\Debug\net9.0\ATMUygulamasi.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\bin\Debug\net9.0\ATMUygulamasi.dll
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\bin\Debug\net9.0\ATMUygulamasi.pdb
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.dll
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\refint\ATMUygulamasi.dll
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.pdb
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ATMUygulamasi.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\ATMUygulamasi\obj\Debug\net9.0\ref\ATMUygulamasi.dll
