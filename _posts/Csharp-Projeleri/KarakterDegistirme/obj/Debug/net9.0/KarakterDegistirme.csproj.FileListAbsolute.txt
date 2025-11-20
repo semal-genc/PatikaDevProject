@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\bin\Debug\net9.0\KarakterDegistirme.exe
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\bin\Debug\net9.0\KarakterDegistirme.deps.json
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\bin\Debug\net9.0\KarakterDegistirme.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\bin\Debug\net9.0\KarakterDegistirme.dll
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\bin\Debug\net9.0\KarakterDegistirme.pdb
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.dll
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\refint\KarakterDegistirme.dll
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.pdb
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\KarakterDegistirme.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\KarakterDegistirme\obj\Debug\net9.0\ref\KarakterDegistirme.dll
