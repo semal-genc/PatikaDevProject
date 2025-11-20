@@ -1,0 +1,14 @@
+C:\Users\semal\Desktop\Pratikler\SessizHarf\bin\Debug\net9.0\SessizHarf.exe
+C:\Users\semal\Desktop\Pratikler\SessizHarf\bin\Debug\net9.0\SessizHarf.deps.json
+C:\Users\semal\Desktop\Pratikler\SessizHarf\bin\Debug\net9.0\SessizHarf.runtimeconfig.json
+C:\Users\semal\Desktop\Pratikler\SessizHarf\bin\Debug\net9.0\SessizHarf.dll
+C:\Users\semal\Desktop\Pratikler\SessizHarf\bin\Debug\net9.0\SessizHarf.pdb
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.AssemblyInfo.cs
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.dll
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\refint\SessizHarf.dll
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.pdb
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\SessizHarf.genruntimeconfig.cache
+C:\Users\semal\Desktop\Pratikler\SessizHarf\obj\Debug\net9.0\ref\SessizHarf.dll
